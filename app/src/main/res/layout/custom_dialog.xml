@@ -8,7 +8,7 @@
         android:id="@+id/Logo"
         android:layout_width="391dp"
         android:layout_height="139dp"
-        android:src="@drawable/logoaxie" />
+        android:src="@drawable/lebah" />
     <TextView
         android:id="@+id/txtText"
         android:layout_width="match_parent"
